@@ -32,7 +32,7 @@ at the moment there is no other tags except latest which is default tag.
 
 ### Github
 
-https://github.com/saherelm/xFrameworkAppCreatorDocker.git
+https://github.com/saherelm/xFrameworkAppCreatorDocker
 
 ### DockerHub
 
