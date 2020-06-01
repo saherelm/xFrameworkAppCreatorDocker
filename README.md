@@ -38,6 +38,14 @@ https://github.com/saherelm/xFrameworkAppCreatorDocker.git
 
 https://hub.docker.com/r/saherelm/x-framework-app-creator
 
+### Maintainer
+
+Hadi Khazaee asl
+
+<https://www.saherelm.ir>
+
+hadi_khazaee_asl@yahoo.com
+
 ## Donate
 
 - Bitcoin: 1BPiiHErBEca61BxtiVqVPdf1irvxpg9Yt
